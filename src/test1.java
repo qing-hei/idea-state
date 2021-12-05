@@ -9,7 +9,7 @@ public class test1 {
             context.Changedistance(20);
             context.Changedistance(21);
             context.Changedistance(5);
-            context.Changedistance(10);
+            context.Changedistance(15);
         }
 
 }
